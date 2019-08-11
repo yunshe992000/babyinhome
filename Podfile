@@ -5,7 +5,7 @@ target 'My Day' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for My Day
+  # Pods for My Day A
     pod 'Firebase/Core'
     pod 'Firebase/Auth'
 
